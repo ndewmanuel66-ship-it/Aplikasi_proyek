@@ -1,0 +1,7 @@
+- [x] Update `TaskEntity.kt` with new fields and `Priority` enum
+- [x] Update `TaskDao.kt` with filtering and sorting queries
+- [x] Update `AppDatabase.kt` with version increment and migration policy
+- [x] Implement reactive `uiState` and `stats` in `TaskViewModel.kt`
+- [x] Create `ui/components/TaskComponents.kt` with redesigned header, badges, and empty state
+- [x] Update `TaskScreen.kt` to integrate new components and enhanced dialog
+- [x] Verify build and functionality
